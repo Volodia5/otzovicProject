@@ -1,0 +1,52 @@
+﻿<Window x:Class="ResponcesOnline.View.EditReportView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResponcesOnline.View"
+        mc:Ignorable="d"
+        Title="EditReportView" MinHeight="555" MinWidth="310" MaxHeight="555" MaxWidth="310">
+    <Grid>
+        <StackPanel Margin="5 5 5 5">
+            <Label>Ваше общее впечатление в двух словах</Label>
+            <TextBox></TextBox>
+            <Label>Текст отзыва</Label>
+            <TextBox TextWrapping="Wrap" Width="297" Height="125"></TextBox>
+            <Label>Плюсы</Label>
+            <TextBox></TextBox>
+            <Label>Минусы</Label>
+            <TextBox></TextBox>
+            <StackPanel>
+                <Label>Способ приобретения</Label>
+                <RadioButton>Купили/Есть в свободном доступе (бесплатно)</RadioButton>
+                <RadioButton Margin="0 5 0 0">
+                    <RadioButton.Content>
+                        <TextBlock TextWrapping="Wrap" TextAlignment="Left" 
+                         Text="Подарили знакомые(меня не  просили написать отзыв)"/>
+                    </RadioButton.Content>
+                </RadioButton>
+                <RadioButton Margin="0 5 0 0">
+                    <RadioButton.Content>
+                        <TextBlock TextWrapping="Wrap" TextAlignment="Left" 
+                         Text="Меня попросили написать отзыв и подарили за это товар/услугу (или дали скидку)"/>
+                    </RadioButton.Content>
+                </RadioButton>
+            </StackPanel>
+            <Grid>
+                <Label>Рекомендовали бы друзьям?</Label>
+                <RadioButton Margin="0 25 0 0" HorizontalAlignment="Left">Да</RadioButton>
+                <RadioButton Margin="0 25 0 0" HorizontalAlignment="Center">Нет</RadioButton>
+            </Grid>
+            <Grid>
+                <Label>Общая оценка</Label>
+                <RadioButton Margin="4 25 0 0" HorizontalAlignment="Left">1☆</RadioButton>
+                <RadioButton Margin="50 25 0 0" HorizontalAlignment="Left">2☆</RadioButton>
+                <RadioButton Margin="0 25 70 0" HorizontalAlignment="Center">3☆</RadioButton>
+                <RadioButton Margin="18 25 0 0" HorizontalAlignment="Center">4☆</RadioButton>
+                <RadioButton Margin="108 25 0 0" HorizontalAlignment="Center">5☆</RadioButton>
+            </Grid>
+
+            <Button Margin="5 10 0 0" Width="115" HorizontalAlignment="Left">Сохранить отзыв</Button>
+        </StackPanel>
+    </Grid>
+</Window>

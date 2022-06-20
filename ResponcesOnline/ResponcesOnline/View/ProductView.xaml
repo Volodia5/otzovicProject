@@ -1,0 +1,18 @@
+﻿<Window x:Class="ResponcesOnline.View.ProductView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResponcesOnline.View"
+        mc:Ignorable="d"
+        Title="ProductView" Height="650" Width="600">
+    <Grid>
+        <Image Margin="10 10 0 0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="200"/>
+        <Label HorizontalAlignment="Center" Content="Товар/Услуга :" Margin="0 0 70 0 "/>
+        <Label Content="Средняя оценка: " HorizontalAlignment="Center" Margin="0 45 70 0"/>
+        <Button Width="100" Height="25" VerticalAlignment="Top" Margin="0 90 69 0" HorizontalAlignment="Right" Content="Оставить отзыв"/>
+        <StackPanel Margin="10 0 10 10" VerticalAlignment="Bottom" Height="410">
+            
+        </StackPanel>
+    </Grid>
+</Window>

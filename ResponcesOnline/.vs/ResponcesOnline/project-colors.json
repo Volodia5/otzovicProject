@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "c6a5f931-c5ad-43ab-8d3b-e28a37437cf2": {
+      "ProjectGuid": "c6a5f931-c5ad-43ab-8d3b-e28a37437cf2",
+      "DisplayName": "ResponcesOnline",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

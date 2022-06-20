@@ -1,0 +1,82 @@
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.exe
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.deps.json
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.dll
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.g.resources
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.dll
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\refint\ResponcesOnline.dll
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.pdb
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ref\ResponcesOnline.dll
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\SignInWindow.g.cs
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\SignUpWindow.g.cs
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\SignInWindow.baml
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\SignUpWindow.baml
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\CategoriesWindow.g.cs
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ProductsWindow.g.cs
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\CategoriesWindow.baml
+C:\Users\Admin\OneDrive\Desktop\C#\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ProductsWindow.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.csproj.AssemblyReference.cache
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\CategoriesView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\CategoryEditView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\ProfileView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\SignInView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\SignUpView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\App.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline_MarkupCompile.cache
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline_MarkupCompile.lref
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ref\ResponcesOnline.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.pdb
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\EditReportView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.exe
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.deps.json
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.runtimeconfig.json
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ref\ResponcesOnline.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\ResponcesOnline.pdb
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Humanizer.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\MySqlConnector.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\CategoriesView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\CategoryEditView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\EditReportView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\ProfileView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\SignInView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\SignUpView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.g.resources
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.GeneratedMSBuildEditorConfig.editorconfig
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.AssemblyInfoInputs.cache
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.AssemblyInfo.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.csproj.CoreCompileInputs.cache
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.csproj.CopyComplete
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\ResponcesOnline.genruntimeconfig.cache
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\MyReportsView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\MyReportsView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\CategoriesAdminView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\CategoriesAdminView.baml
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\ProductView.g.cs
+G:\С# программирование\ResponcesOnline\ResponcesOnline\obj\Debug\net6.0-windows\View\ProductView.baml
